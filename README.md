@@ -1,11 +1,3 @@
-# CSCI 6505 - FINAL PROJECT WORK 
-## PROJECT NAME: MUSIC MOODS CLASIFICATION
-## PROJECT CONTRIBUTORS
-1) Naga Pavan Srivathsav Chevuru – B00893685 
-2) Nikita Kothari - B00893710 
-3) Tanvi Paruthi - B00875949 
-4) Tasnim Khan - B00882598  
-
 ## Final Report Documentation
 We have submitted the detailed project report for our project work. This includes all the different areas that the team explored and have gathered while working on the project. We have also tried to relate the concepts being thought from the class into our project and show different variations in our production model architecture and the details on how we concluded the architecture of our ANN model.
 
